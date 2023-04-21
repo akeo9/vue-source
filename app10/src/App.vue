@@ -55,11 +55,6 @@
     padding: 10px;
     border: solid 1px black;
   }
-  #card .card {
-    max-width: 500px;
-    margin: 0 auto;
-    padding-bottom: 15px;
-  }
   button {
     margin: 3px 0 0 0;
   }
